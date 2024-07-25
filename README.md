@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thortarus
-- 👀 I’m interested in gaming and 
+- 👀 I’m interested in gaming and web developement
 - 🌱 I’m currently new to IT development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : thortarus@gmail.com
