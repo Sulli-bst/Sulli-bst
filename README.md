@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thortarus
+- 👋 Hi, I’m @Tλrτarus
 - 👀 I’m interested in gaming and web developement
 - 🌱 I’m currently new to IT development
 - 💞️ I’m looking to collaborate on ...
