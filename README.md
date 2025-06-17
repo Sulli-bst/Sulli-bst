@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @Tλrτarus
-- 👀 I’m interested in gaming and web developement
-- 🌱 I’m currently new to IT development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : thortarus@gmail.com
-- ⚡ Fun fact: ...
+# 👋 Hello there! I'm Sullivan 
 
-<!---
-Thortarus/Thortarus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### About Me
+
+🎮 I'm a passionate **gamer** who's just diving into the exciting world of **IT development**! I'm particularly interested in **web development** and I'm eager to learn and grow in this field.
+
+---
+
+### What I'm Learning & Doing
+
+🌱 I'm currently on an exciting journey as a **newcomer to IT development**. My focus right now is on building a strong foundation in web technologies.
+
+---
+
+### Looking to Collaborate!
+
+🤝 I'm actively looking to **collaborate on various web projects**. Whether it's a small open-source contribution, a new idea, or just practicing my skills, I'm open to working with others and learning from experienced developers. Let's build something awesome together!
+
+---
+
+### Get in Touch!
+
+📧 The best way to reach me is via email: **sullivan.beaussart@outlook.com**
+
+---
