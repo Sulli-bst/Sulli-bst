@@ -4,7 +4,7 @@
 
 ### About Me
 
-🪖 I'm a former **military guy** who's just diving into the exciting world of **IT development**! I'm particularly interested in **web development** and I'm eager to learn and grow in this field.
+🪖 ➡ 💻 I'm a former **military guy** who's just diving into the exciting world of **IT development**! I'm particularly interested in **web development** and I'm eager to learn and grow in this field.
 
 ---
 
@@ -23,5 +23,6 @@
 ### Get in Touch!
 
 📧 The best way to reach me is via email: **sullivan.beaussart@outlook.com**
+🔗 You can also reach me on Linkedin : [https://www.linkedin.com/in/sullivan-b-33223629b/]
 
 ---
