@@ -26,6 +26,6 @@
 
 🔗 You can also reach me on [Linkedin](https://www.linkedin.com/in/sullivan-b-33223629b/)
 
-🌎 Check my [Website](https://www.sulli-bst.fr)
+🌎 Check my [Website](https://www.sullivan-bst.fr)
 
 ---
