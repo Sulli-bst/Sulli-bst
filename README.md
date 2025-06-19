@@ -23,6 +23,7 @@
 ### Get in Touch!
 
 📧 The best way to reach me is via email: **sullivan.beaussart@outlook.com**
+
 🔗 You can also reach me on my [Linkedin profile](https://www.linkedin.com/in/sullivan-b-33223629b/)
 
 ---
